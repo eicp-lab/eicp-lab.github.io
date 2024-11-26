@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NanJing on EICP-LAB</title>
+    <link>http://localhost:1313/categories/nanjing/</link>
+    <description>Recent content in NanJing on EICP-LAB</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 13:39:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/nanjing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INTERNATIONAL SOCIETY FOR ENERGY TRANSITION STUDIES ANNUAL CONFERENCE</title>
+      <link>http://localhost:1313/news/2024/11/01/international-society-for-energy-transition-studies-isets/</link>
+      <pubDate>Fri, 01 Nov 2024 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/news/2024/11/01/international-society-for-energy-transition-studies-isets/</guid>
+      <description>&lt;p&gt;Professor Yangsiyu Lu and PhD student Xiong Jiao attended the annual conference of the International Society for Energy Transition Studies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

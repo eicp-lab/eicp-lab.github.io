@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pinghan Liang on EICP-LAB</title>
+    <link>http://localhost:1313/authors/pinghan-liang/</link>
+    <description>Recent content in Pinghan Liang on EICP-LAB</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Oct 2024 13:39:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/pinghan-liang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Seminar</title>
+      <link>http://localhost:1313/news/2024/10/23/academic-seminar-10.23/</link>
+      <pubDate>Wed, 23 Oct 2024 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/news/2024/10/23/academic-seminar-10.23/</guid>
+      <description>&lt;p&gt;Professor Pinghan Liang from the School of Government at Sun Yat-sen University was invited to deliver a lecture on the topic:Why is there so much surveillance in China? An Explanation from a Fiscal Perspective.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
