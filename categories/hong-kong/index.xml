@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hong Kong on EICP-LAB</title>
-    <link>http://localhost:1313/categories/hong-kong/</link>
+    <link>https://eicp-lab.github.io/categories/hong-kong/</link>
     <description>Recent content in Hong Kong on EICP-LAB</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jul 2024 13:47:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/hong-kong/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eicp-lab.github.io/categories/hong-kong/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global China Fellows Summit</title>
-      <link>http://localhost:1313/news/2024/07/13/global-china-fellows-summit/</link>
+      <link>https://eicp-lab.github.io/news/2024/07/13/global-china-fellows-summit/</link>
       <pubDate>Sat, 13 Jul 2024 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/news/2024/07/13/global-china-fellows-summit/</guid>
+      <guid>https://eicp-lab.github.io/news/2024/07/13/global-china-fellows-summit/</guid>
       <description>&lt;p&gt;Professor Yangsiyu Lu was invited to attend the 2024 Global China Fellows Summit and speak at the policy round table.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Academic Seminar</title>
-      <link>http://localhost:1313/news/2024/05/21/academic-seminar/</link>
+      <link>https://eicp-lab.github.io/news/2024/05/21/academic-seminar/</link>
       <pubDate>Tue, 21 May 2024 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/news/2024/05/21/academic-seminar/</guid>
+      <guid>https://eicp-lab.github.io/news/2024/05/21/academic-seminar/</guid>
       <description>&lt;p&gt;Professor Yangsiyu Lu was invited to give a seminar in the Division of Public Policy at HKUST.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiao Xiong on EICP-LAB</title>
-    <link>http://localhost:1313/authors/jiao-xiong/</link>
+    <link>https://eicp-lab.github.io/authors/jiao-xiong/</link>
     <description>Recent content in Jiao Xiong on EICP-LAB</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Nov 2024 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/jiao-xiong/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eicp-lab.github.io/authors/jiao-xiong/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xiangzhang economic academic workshop</title>
-      <link>http://localhost:1313/news/2024/11/16/xiangzhang-economic-academic-seminar/</link>
+      <link>https://eicp-lab.github.io/news/2024/11/16/xiangzhang-economic-academic-seminar/</link>
       <pubDate>Sat, 16 Nov 2024 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/news/2024/11/16/xiangzhang-economic-academic-seminar/</guid>
+      <guid>https://eicp-lab.github.io/news/2024/11/16/xiangzhang-economic-academic-seminar/</guid>
       <description>&lt;p&gt;PhD student Jiao Xiong attended the Xiangzhang Economic Academic Workshop, where she delivered a talk titled “Technological Change from Fossil Fuels to Renewables: Evidence from Offshore Energy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CNCC Green Bag</title>
-      <link>http://localhost:1313/news/2024/11/14/cncc-green-bag/</link>
+      <link>https://eicp-lab.github.io/news/2024/11/14/cncc-green-bag/</link>
       <pubDate>Thu, 14 Nov 2024 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/news/2024/11/14/cncc-green-bag/</guid>
+      <guid>https://eicp-lab.github.io/news/2024/11/14/cncc-green-bag/</guid>
       <description>&lt;p&gt;PhD student Jiao Xiong participated in CNCC Green Bag and delivered a talk about “Technological change from fossil-fuel to renewable: Evidence from offshore energy”.&lt;/p&gt;</description>
     </item>
   </channel>

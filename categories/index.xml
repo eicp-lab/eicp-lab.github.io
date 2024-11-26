@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on EICP-LAB</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://eicp-lab.github.io/categories/</link>
     <description>Recent content in Categories on EICP-LAB</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Nov 2024 13:50:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eicp-lab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HKUST(GZ)</title>
-      <link>http://localhost:1313/categories/hkustgz/</link>
+      <link>https://eicp-lab.github.io/categories/hkustgz/</link>
       <pubDate>Mon, 18 Nov 2024 13:50:46 +0200</pubDate>
-      <guid>http://localhost:1313/categories/hkustgz/</guid>
+      <guid>https://eicp-lab.github.io/categories/hkustgz/</guid>
       <description></description>
     </item>
     <item>
       <title>Zhanjiang</title>
-      <link>http://localhost:1313/categories/zhanjiang/</link>
+      <link>https://eicp-lab.github.io/categories/zhanjiang/</link>
       <pubDate>Sat, 16 Nov 2024 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/categories/zhanjiang/</guid>
+      <guid>https://eicp-lab.github.io/categories/zhanjiang/</guid>
       <description></description>
     </item>
     <item>
       <title>Yangjiang</title>
-      <link>http://localhost:1313/categories/yangjiang/</link>
+      <link>https://eicp-lab.github.io/categories/yangjiang/</link>
       <pubDate>Fri, 15 Nov 2024 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/categories/yangjiang/</guid>
+      <guid>https://eicp-lab.github.io/categories/yangjiang/</guid>
       <description></description>
     </item>
     <item>
       <title>Shanghai</title>
-      <link>http://localhost:1313/categories/shanghai/</link>
+      <link>https://eicp-lab.github.io/categories/shanghai/</link>
       <pubDate>Sun, 10 Nov 2024 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/categories/shanghai/</guid>
+      <guid>https://eicp-lab.github.io/categories/shanghai/</guid>
       <description></description>
     </item>
     <item>
       <title>ChengDu</title>
-      <link>http://localhost:1313/categories/chengdu/</link>
+      <link>https://eicp-lab.github.io/categories/chengdu/</link>
       <pubDate>Sat, 09 Nov 2024 21:49:20 +0200</pubDate>
-      <guid>http://localhost:1313/categories/chengdu/</guid>
+      <guid>https://eicp-lab.github.io/categories/chengdu/</guid>
       <description></description>
     </item>
     <item>
       <title>Tianjing</title>
-      <link>http://localhost:1313/categories/tianjing/</link>
+      <link>https://eicp-lab.github.io/categories/tianjing/</link>
       <pubDate>Sat, 02 Nov 2024 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/categories/tianjing/</guid>
+      <guid>https://eicp-lab.github.io/categories/tianjing/</guid>
       <description></description>
     </item>
     <item>
       <title>NanJing</title>
-      <link>http://localhost:1313/categories/nanjing/</link>
+      <link>https://eicp-lab.github.io/categories/nanjing/</link>
       <pubDate>Fri, 01 Nov 2024 13:39:46 +0200</pubDate>
-      <guid>http://localhost:1313/categories/nanjing/</guid>
+      <guid>https://eicp-lab.github.io/categories/nanjing/</guid>
       <description></description>
     </item>
     <item>
       <title>Guangzhou</title>
-      <link>http://localhost:1313/categories/guangzhou/</link>
+      <link>https://eicp-lab.github.io/categories/guangzhou/</link>
       <pubDate>Wed, 23 Oct 2024 13:39:46 +0200</pubDate>
-      <guid>http://localhost:1313/categories/guangzhou/</guid>
+      <guid>https://eicp-lab.github.io/categories/guangzhou/</guid>
       <description></description>
     </item>
     <item>
       <title>Paris</title>
-      <link>http://localhost:1313/categories/paris/</link>
+      <link>https://eicp-lab.github.io/categories/paris/</link>
       <pubDate>Fri, 04 Oct 2024 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/categories/paris/</guid>
+      <guid>https://eicp-lab.github.io/categories/paris/</guid>
       <description></description>
     </item>
     <item>
       <title>Hong Kong</title>
-      <link>http://localhost:1313/categories/hong-kong/</link>
+      <link>https://eicp-lab.github.io/categories/hong-kong/</link>
       <pubDate>Sat, 13 Jul 2024 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/categories/hong-kong/</guid>
+      <guid>https://eicp-lab.github.io/categories/hong-kong/</guid>
       <description></description>
     </item>
     <item>
       <title>Berlin</title>
-      <link>http://localhost:1313/categories/berlin/</link>
+      <link>https://eicp-lab.github.io/categories/berlin/</link>
       <pubDate>Thu, 27 Jun 2024 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/categories/berlin/</guid>
+      <guid>https://eicp-lab.github.io/categories/berlin/</guid>
       <description></description>
     </item>
   </channel>

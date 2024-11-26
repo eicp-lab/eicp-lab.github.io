@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on EICP-LAB</title>
-    <link>http://localhost:1313/authors/</link>
+    <link>https://eicp-lab.github.io/authors/</link>
     <description>Recent content in Authors on EICP-LAB</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Nov 2024 13:50:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eicp-lab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mengmeng Guo</title>
-      <link>http://localhost:1313/authors/mengmeng-guo/</link>
+      <link>https://eicp-lab.github.io/authors/mengmeng-guo/</link>
       <pubDate>Mon, 18 Nov 2024 13:50:46 +0200</pubDate>
-      <guid>http://localhost:1313/authors/mengmeng-guo/</guid>
+      <guid>https://eicp-lab.github.io/authors/mengmeng-guo/</guid>
       <description></description>
     </item>
     <item>
       <title>Jiao Xiong</title>
-      <link>http://localhost:1313/authors/jiao-xiong/</link>
+      <link>https://eicp-lab.github.io/authors/jiao-xiong/</link>
       <pubDate>Sat, 16 Nov 2024 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/authors/jiao-xiong/</guid>
+      <guid>https://eicp-lab.github.io/authors/jiao-xiong/</guid>
       <description></description>
     </item>
     <item>
       <title>Yangsiyu Lu</title>
-      <link>http://localhost:1313/authors/yangsiyu-lu/</link>
+      <link>https://eicp-lab.github.io/authors/yangsiyu-lu/</link>
       <pubDate>Fri, 15 Nov 2024 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/authors/yangsiyu-lu/</guid>
+      <guid>https://eicp-lab.github.io/authors/yangsiyu-lu/</guid>
       <description></description>
     </item>
     <item>
       <title>Zhenhuan Yang</title>
-      <link>http://localhost:1313/authors/zhenhuan-yang/</link>
+      <link>https://eicp-lab.github.io/authors/zhenhuan-yang/</link>
       <pubDate>Sat, 02 Nov 2024 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/authors/zhenhuan-yang/</guid>
+      <guid>https://eicp-lab.github.io/authors/zhenhuan-yang/</guid>
       <description></description>
     </item>
     <item>
       <title>Yangsiyu Lu, Jiao Xiong</title>
-      <link>http://localhost:1313/authors/yangsiyu-lu-jiao-xiong/</link>
+      <link>https://eicp-lab.github.io/authors/yangsiyu-lu-jiao-xiong/</link>
       <pubDate>Fri, 01 Nov 2024 13:39:46 +0200</pubDate>
-      <guid>http://localhost:1313/authors/yangsiyu-lu-jiao-xiong/</guid>
+      <guid>https://eicp-lab.github.io/authors/yangsiyu-lu-jiao-xiong/</guid>
       <description></description>
     </item>
     <item>
       <title>Pinghan Liang</title>
-      <link>http://localhost:1313/authors/pinghan-liang/</link>
+      <link>https://eicp-lab.github.io/authors/pinghan-liang/</link>
       <pubDate>Wed, 23 Oct 2024 13:39:46 +0200</pubDate>
-      <guid>http://localhost:1313/authors/pinghan-liang/</guid>
+      <guid>https://eicp-lab.github.io/authors/pinghan-liang/</guid>
       <description></description>
     </item>
   </channel>
