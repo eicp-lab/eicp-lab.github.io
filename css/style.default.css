@@ -1,13 +1,13 @@
 /* Themed colors */
 :root {
-  --primary-accent: #38a7bb;
-  --navbar-border-top: #20616d;
-  --button-border: #2a7d8c;
-  --link-focus: #267280;
-  --form-shadow: rgba(56, 167, 187, 0.6);
-  --pagination-bg: #a7dbe5;
-  --link-hover-bg: #2c8494;
-  --navbar-focus: #80cbd9;
+  --primary-accent: #3767A8;
+  --navbar-border-top: #3767A8;
+  --button-border: #3767A8;
+  --link-focus: #3767A8;
+  --form-shadow: #3767A8;
+  --pagination-bg: #3767A8;
+  --link-hover-bg: #3767A8;
+  --navbar-focus: #3767A8;
 }
 
 .clearfix:before,
@@ -1112,11 +1112,11 @@ fieldset[disabled] .btn-template-primary.active {
   top: 50px;
 }
 .ribbon.new .theribbon {
-  background-color: #5bc0de;
+  background-color: #3767A8;
   text-shadow: 0px 1px 2px #bbb;
 }
 .ribbon.new .theribbon:after {
-  border-color: #2390b0 #2390b0 transparent transparent;
+  border-color: #3767A8 #3767A8 transparent transparent;
 }
 .ribbon.gift {
   top: 100px;
@@ -2424,7 +2424,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-color: #c21f25;
 }
 #product-social p a.twitter {
-  background-color: #3cf;
+  background-color: #3767A8;
 }
 #product-social p a.instagram {
   background-color: #cd4378;
