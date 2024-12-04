@@ -1,0 +1,16 @@
+.home-image {
+    text-align: center;  /* 图片容器居中 */
+    padding: 20px 0;     /* 添加上下内边距 */
+}
+
+.home-image img {
+    max-width: 100%;     /* 图片最大宽度为父容器的宽度 */
+    height: auto;        /* 高度自动调整，以保持宽高比 */
+    display: block;      /* 让图片作为块级元素显示（可以去掉 inline-block） */
+    margin: 0 auto;      /* 水平居中 */
+}
+
+
+
+
+
