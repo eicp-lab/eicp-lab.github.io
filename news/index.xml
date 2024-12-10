@@ -6,8 +6,15 @@
     <description>Recent content in News on EICP-LAB</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 00:29:20 +0200</lastBuildDate>
     <atom:link href="https://eicp-lab.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic seminar</title>
+      <link>https://eicp-lab.github.io/news/2024/12/09/academic-seminar-12.9/</link>
+      <pubDate>Mon, 09 Dec 2024 00:29:20 +0200</pubDate>
+      <guid>https://eicp-lab.github.io/news/2024/12/09/academic-seminar-12.9/</guid>
+      <description>&lt;p&gt;Professor from the School of Environmental Science and Engineering at Shanghai Jiao Tong University was invited to give a seminar about National Nature Science Foundation Project.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Academic SEMINAR</title>
       <link>https://eicp-lab.github.io/news/2024/11/28/academic-seminar11-28/</link>
@@ -34,7 +41,7 @@
       <link>https://eicp-lab.github.io/news/2024/11/16/xiangzhang-economic-academic-seminar/</link>
       <pubDate>Sat, 16 Nov 2024 21:29:20 +0200</pubDate>
       <guid>https://eicp-lab.github.io/news/2024/11/16/xiangzhang-economic-academic-seminar/</guid>
-      <description>&lt;p&gt;PhD student Jiao Xiong attended the Xiangzhang Economic Academic Workshop, where she delivered a talk titled “Technological Change from Fossil Fuels to Renewables: Evidence from Offshore Energy.&lt;/p&gt;</description>
+      <description>&lt;p&gt;PhD student Jiao Xiong attended the Xiangzhang Economic Academic Workshop, where she delivered a talk titled &amp;ldquo;Technological Change from Fossil Fuels to Renewables: Evidence from Offshore Energy&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Greater Bay Area Science Forum</title>
@@ -122,9 +129,9 @@
     </item>
     <item>
       <title>Academic Seminar</title>
-      <link>https://eicp-lab.github.io/news/2024/05/21/academic-seminar/</link>
+      <link>https://eicp-lab.github.io/news/2024/05/21/academic-seminar05-21/</link>
       <pubDate>Tue, 21 May 2024 13:47:08 +0200</pubDate>
-      <guid>https://eicp-lab.github.io/news/2024/05/21/academic-seminar/</guid>
+      <guid>https://eicp-lab.github.io/news/2024/05/21/academic-seminar05-21/</guid>
       <description>&lt;p&gt;Professor Yangsiyu Lu was invited to give a seminar in the Division of Public Policy at HKUST.&lt;/p&gt;</description>
     </item>
   </channel>
