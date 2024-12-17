@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yangjiang on EICP-LAB</title>
-    <link>https://eicp-lab.github.io/categories/yangjiang/</link>
+    <link>http://localhost:1313/categories/yangjiang/</link>
     <description>Recent content in Yangjiang on EICP-LAB</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2024 21:29:20 +0200</lastBuildDate>
-    <atom:link href="https://eicp-lab.github.io/categories/yangjiang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/yangjiang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greater Bay Area Science Forum</title>
-      <link>https://eicp-lab.github.io/news/2024/11/15/greater-bay-area-science-forum/</link>
+      <link>http://localhost:1313/news/2024/11/15/greater-bay-area-science-forum/</link>
       <pubDate>Fri, 15 Nov 2024 21:29:20 +0200</pubDate>
-      <guid>https://eicp-lab.github.io/news/2024/11/15/greater-bay-area-science-forum/</guid>
+      <guid>http://localhost:1313/news/2024/11/15/greater-bay-area-science-forum/</guid>
       <description>&lt;p&gt;Professor Yangsiyu Lu attended the 2024 Greater Bay Area Science Forum&amp;rsquo;s Green Energy Industry Science and Technology Innovation Sub-Forum and visited the Big Data Center for Guangdong Offshore Wind in Yangjiang City.&lt;/p&gt;</description>
     </item>
   </channel>
