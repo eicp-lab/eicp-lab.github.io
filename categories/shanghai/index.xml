@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shanghai on EICP-LAB</title>
-    <link>http://localhost:1313/categories/shanghai/</link>
+    <link>https://eicp-lab.github.io/categories/shanghai/</link>
     <description>Recent content in Shanghai on EICP-LAB</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2024 13:47:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/shanghai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2025 03:47:08 +0200</lastBuildDate>
+    <atom:link href="https://eicp-lab.github.io/categories/shanghai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>World AI for Science Competition</title>
-      <link>http://localhost:1313/news/2024/11/10/visitng11-10/</link>
-      <pubDate>Sun, 10 Nov 2024 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/news/2024/11/10/visitng11-10/</guid>
-      <description>&lt;p&gt;Professor Yangsiyu Lu was invited to serve as a judge for the social science track of the 2nd World AI4S Prize.&lt;/p&gt;</description>
+      <title>The 4th CAERE Conference</title>
+      <link>https://eicp-lab.github.io/news/2025/05/18/the-4th-annual-conference-of-the-china-association-for-energy-economics-and-environment/</link>
+      <pubDate>Sun, 18 May 2025 03:47:08 +0200</pubDate>
+      <guid>https://eicp-lab.github.io/news/2025/05/18/the-4th-annual-conference-of-the-china-association-for-energy-economics-and-environment/</guid>
+      <description>&lt;p&gt;PhD student Zhenhuan Yang was invited to present his research titled “Raining on Bond: The Impact of Extreme Rainfall on Local Financing Costs,” co-authored with Yangsiyu Lu, at the 4th Annual Conference of the Chinese Association of Environmental and Resource Economics (CAERE), held on May 17–18 and hosted by the Shanghai University of Finance and Economics.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
