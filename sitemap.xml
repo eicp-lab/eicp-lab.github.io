@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eicp-lab.github.io/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eicp-lab.github.io/team/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eicp-lab.github.io/news/2026/08/12/visit-to-china-southern-power-grid/</loc>
     <lastmod>2026-08-12T10:47:08+02:00</lastmod>
   </url><url>
@@ -9,9 +15,6 @@
     <lastmod>2026-08-12T10:47:08+02:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/categories/</loc>
-    <lastmod>2026-08-12T10:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://eicp-lab.github.io/</loc>
     <lastmod>2026-08-12T10:47:08+02:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/categories/guangzhou/</loc>
@@ -257,9 +260,6 @@
     <loc>https://eicp-lab.github.io/team/fsy/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eicp-lab.github.io/team/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eicp-lab.github.io/team/lx/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -267,9 +267,6 @@
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/team/xyf/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eicp-lab.github.io/team/zy/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/team/lysy/</loc>
@@ -340,6 +337,9 @@
   </url><url>
     <loc>https://eicp-lab.github.io/news/2024/09/21/cncc-workshop/</loc>
     <lastmod>2024-09-21T13:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://eicp-lab.github.io/team/zy/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/news/2024/07/13/global-china-fellows-summit/</loc>
     <lastmod>2024-07-13T13:47:08+02:00</lastmod>
