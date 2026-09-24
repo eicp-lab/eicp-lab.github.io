@@ -9,16 +9,23 @@
     <lastBuildDate>Tue, 01 Sep 2026 03:47:08 +0200</lastBuildDate>
     <atom:link href="https://eicp-lab.github.io/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Yiwen Chen</title>
+      <link>https://eicp-lab.github.io/team/cyw/</link>
+      <pubDate>Tue, 01 Sep 2026 03:47:08 +0200</pubDate>
+      <guid>https://eicp-lab.github.io/team/cyw/</guid>
+      <description>&lt;h4 id=&#34;research-assistant&#34;&gt;Research assistant&lt;/h4&gt;&#xA;&lt;h4 id=&#34;emailyiwenchenhkust-gzeducn&#34;&gt;Email：yiwenchen@hkust-gz.edu.cn&lt;/h4&gt;&#xA;&lt;p&gt;Yiwen Chen is a research assistant in the Energy Infrastructure and Climate Policy Lab. He holds the Master&amp;rsquo;s degree in Engineering at Xi&amp;rsquo;an Jiaotong University. His research interests include AI for sustainability and sustainability for AI. Currently, he is engaged in the area about renewable energy, data centers construction, and machine learning.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Jia He</title>
       <link>https://eicp-lab.github.io/team/hj/</link>
-      <pubDate>Tue, 01 Sep 2026 03:47:08 +0200</pubDate>
+      <pubDate>Sun, 23 Aug 2026 03:47:08 +0200</pubDate>
       <guid>https://eicp-lab.github.io/team/hj/</guid>
       <description>&lt;h4 id=&#34;phd-student&#34;&gt;PhD student&lt;/h4&gt;&#xA;&lt;h4 id=&#34;emailjhe332connecthkust-gzeducn&#34;&gt;Email：jhe332@connect.hkust-gz.edu.cn&lt;/h4&gt;&#xA;&lt;p&gt;Jia He is a first-year PhD student in the Carbon Neutrality and Climate Change (CNCC) Thrust at The Hong Kong University of Science and Technology (Guangzhou). He holds a Master’s degree in Management from Tongji University and completed his Bachelor’s degree in Engineering at Chang’an University. Jia’s research focuses on the energy transition. His work has appeared or is featured in leading journals, such as Cell Reports Sustainability, International Review of Financial Analysis, and Scientific Data. Looking ahead, he is committed to advancing sustainable energy transition research by leveraging cutting-edge AI technologies and highly granular datasets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jingrong Wang</title>
       <link>https://eicp-lab.github.io/team/wjr/</link>
-      <pubDate>Tue, 01 Sep 2026 03:47:08 +0200</pubDate>
+      <pubDate>Sun, 23 Aug 2026 03:47:08 +0200</pubDate>
       <guid>https://eicp-lab.github.io/team/wjr/</guid>
       <description>&lt;h4 id=&#34;phd-student&#34;&gt;PhD student&lt;/h4&gt;&#xA;&lt;h4 id=&#34;emailjwang605connecthkust-gzeducn&#34;&gt;Email：jwang605@connect.hkust-gz.edu.cn&lt;/h4&gt;&#xA;&lt;p&gt;Jingrong Wang is a first-year Ph.D. student in the Energy Infrastructure and Climate Policy Lab at HKUST(GZ). He holds a master&amp;rsquo;s degree in Industrial Economics from Southwestern University of Finance and Economics (SWUFE) and a bachelor&amp;rsquo;s degree in Economics from Huaqiao University. His research interests lie at the intersection of energy economics and environmental economics, with a particular focus on climate risks and adaptation strategies.&lt;/p&gt;</description>
     </item>
@@ -28,6 +35,13 @@
       <pubDate>Mon, 01 Sep 2025 03:47:08 +0200</pubDate>
       <guid>https://eicp-lab.github.io/team/hq/</guid>
       <description>&lt;h4 id=&#34;phd-student&#34;&gt;PhD student&lt;/h4&gt;&#xA;&lt;h4 id=&#34;emailqhuang663connecthkust-gzeducn&#34;&gt;Email：qhuang663@connect.hkust-gz.edu.cn&lt;/h4&gt;&#xA;&lt;p&gt;Qing Huang is a second-year PhD student in the Energy Infrastructure and Climate Policy Lab. She holds the Master’s degree in Economics at the University of Chinese Academy of Social Sciences. Her research interests include innovation and entrepreneurship, the Chinese economy, environmental economics, and applied microeconomics. Her work has been published in journals such as Land Use Policy. Currently, she is engaged in the area about the impacts of environmental regulation, foreign technology restrictions and generative AI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xinbin Zhao</title>
+      <link>https://eicp-lab.github.io/team/zxb/</link>
+      <pubDate>Mon, 01 Sep 2025 03:47:08 +0200</pubDate>
+      <guid>https://eicp-lab.github.io/team/zxb/</guid>
+      <description>&lt;h4 id=&#34;mphil-student&#34;&gt;MPhil student&lt;/h4&gt;&#xA;&lt;h4 id=&#34;emailxzhao056connecthkust-gzeducn&#34;&gt;Email：xzhao056@connect.hkust-gz.edu.cn&lt;/h4&gt;&#xA;&lt;p&gt;Xinbin Zhao is a second-year MPhil student in the Energy Infrastructure and Climate Policy Lab. She holds a Bachelor&amp;rsquo;s degree in International Economics and Trade from Beijing University of Chemical Technology, with an academic background that includes two years of prior study in Environmental Engineering. Her research interests center on environmental and energy economics, energy and the energy transition. Recently, she has been exploring how generative AI can be leveraged to optimize predictions within energy systems. Prior to her graduate studies, she gained practical experience by co-founding a startup focused on concentrated solar power (CSP) generation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yafei Xu</title>
@@ -56,13 +70,6 @@
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://eicp-lab.github.io/team/lx/</guid>
       <description>&lt;h4 id=&#34;alumni&#34;&gt;Alumni&lt;/h4&gt;&#xA;&lt;h4 id=&#34;email&#34;&gt;Email: &lt;a href=&#34;mailto:xli464@connect.hkust-gz.edu.cn&#34;&gt;xli464@connect.hkust-gz.edu.cn&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Xin LI is a MPhil graduate in the Innovation, Policy, and Entrepreneurship Thrust at The Hong Kong University of Science and Technology (Guangzhou). She holds a Bachelor&amp;rsquo;s degree in Internet and New Media from the School of Communication and Design at Sun Yat-sen University. Before embarking on her academic journey, Xin accumulated extensive experience and demonstrated professional expertise in user research and user interface design during her six-year tenure at Tencent and Bytedance.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Xinbin Zhao</title>
-      <link>https://eicp-lab.github.io/team/zxb/</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://eicp-lab.github.io/team/zxb/</guid>
-      <description>&lt;h4 id=&#34;mphil-student&#34;&gt;MPhil student&lt;/h4&gt;&#xA;&lt;h4 id=&#34;emailxzhao056connecthkust-gzeducn&#34;&gt;Email：xzhao056@connect.hkust-gz.edu.cn&lt;/h4&gt;&#xA;&lt;p&gt;Xinbin Zhao is a second-year MPhil student in the Energy Infrastructure and Climate Policy Lab. She holds a Bachelor&amp;rsquo;s degree in International Economics and Trade from Beijing University of Chemical Technology, with an academic background that includes two years of prior study in Environmental Engineering. Her research interests center on environmental and energy economics, energy and the energy transition. Recently, she has been exploring how generative AI can be leveraged to optimize predictions within energy systems. Prior to her graduate studies, she gained practical experience by co-founding a startup focused on concentrated solar power (CSP) generation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chenglin Li</title>
