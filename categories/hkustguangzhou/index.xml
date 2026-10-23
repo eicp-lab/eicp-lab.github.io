@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HKUST(Guangzhou) on EICP-LAB</title>
+    <link>https://eicp-lab.github.io/categories/hkustguangzhou/</link>
+    <description>Recent content in HKUST(Guangzhou) on EICP-LAB</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Oct 2026 01:47:08 +0200</lastBuildDate>
+    <atom:link href="https://eicp-lab.github.io/categories/hkustguangzhou/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Center Visit</title>
+      <link>https://eicp-lab.github.io/news/2026/10/23/visit-to-data-center/</link>
+      <pubDate>Fri, 23 Oct 2026 01:47:08 +0200</pubDate>
+      <guid>https://eicp-lab.github.io/news/2026/10/23/visit-to-data-center/</guid>
+      <description>&lt;p&gt;EICP Lab was invited to visit the AI/HPC Data Center at HKUST (Guangzhou) and learn about its overall operations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
