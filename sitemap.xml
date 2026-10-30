@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eicp-lab.github.io/news/2026/10/30/9th-iaee-asia-oceania-research-webinar/</loc>
+    <lastmod>2026-10-30T03:47:08+02:00</lastmod>
+  </url><url>
     <loc>https://eicp-lab.github.io/authors/</loc>
-    <lastmod>2026-10-23T01:47:08+02:00</lastmod>
+    <lastmod>2026-10-30T03:47:08+02:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/categories/</loc>
-    <lastmod>2026-10-23T01:47:08+02:00</lastmod>
+    <lastmod>2026-10-30T03:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://eicp-lab.github.io/</loc>
+    <lastmod>2026-10-30T03:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://eicp-lab.github.io/categories/guangzhou/</loc>
+    <lastmod>2026-10-30T03:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://eicp-lab.github.io/news/</loc>
+    <lastmod>2026-10-30T03:47:08+02:00</lastmod>
+  </url><url>
+    <loc>https://eicp-lab.github.io/authors/yangsiyu-lu/</loc>
+    <lastmod>2026-10-30T03:47:08+02:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/news/2026/10/23/visit-to-data-center/</loc>
     <lastmod>2026-10-23T01:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://eicp-lab.github.io/</loc>
-    <lastmod>2026-10-23T01:47:08+02:00</lastmod>
-  </url><url>
     <loc>https://eicp-lab.github.io/categories/hkustguangzhou/</loc>
-    <lastmod>2026-10-23T01:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://eicp-lab.github.io/news/</loc>
-    <lastmod>2026-10-23T01:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://eicp-lab.github.io/authors/yangsiyu-lu/</loc>
     <lastmod>2026-10-23T01:47:08+02:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/news/2026/10/22/cncc-green-bag-10.22/</loc>
@@ -57,9 +63,6 @@
     <lastmod>2026-08-20T03:47:08+02:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/news/2026/08/12/visit-to-china-southern-power-grid/</loc>
-    <lastmod>2026-08-12T10:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://eicp-lab.github.io/categories/guangzhou/</loc>
     <lastmod>2026-08-12T10:47:08+02:00</lastmod>
   </url><url>
     <loc>https://eicp-lab.github.io/news/2026/08/11/publication-cs/</loc>
