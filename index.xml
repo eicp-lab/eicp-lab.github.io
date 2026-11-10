@@ -6,8 +6,15 @@
     <description>Recent content on EICP-LAB</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 02:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:47:08 +0200</lastBuildDate>
     <atom:link href="https://eicp-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Publication in Nature Climate Change</title>
+      <link>https://eicp-lab.github.io/news/2026/11/10/publication-ncc/</link>
+      <pubDate>Tue, 10 Nov 2026 01:47:08 +0200</pubDate>
+      <guid>https://eicp-lab.github.io/news/2026/11/10/publication-ncc/</guid>
+      <description>&lt;p&gt;🎉🎉🎉 Congratulations to PhD students Chenglin Li, Yang Zhang, Yafei Xu and Professor Yangsiyu Lu!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>CNCC Green Bag</title>
       <link>https://eicp-lab.github.io/news/2026/11/05/cncc-green-bag-11.5/</link>
@@ -552,7 +559,7 @@
       <link>https://eicp-lab.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://eicp-lab.github.io/publications/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s44458-026-00131-w&#34;&gt;Huang, Q., Li, C., &amp;amp; Lu, Y. (2026). Fossil fuel occupations show high transferability across the wider economy. Communications Sustainability, 1(1), 125.&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nat. Clim. Chang. (2026).&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1038/s41558-026-02794-8&#34;&gt;Li, C., Zhang, Y., Xu, Y., &amp;amp; Lu, Y. (2026). Early evidence links data centre exposure to coal power retirement timelines. Nature Climate Change.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
